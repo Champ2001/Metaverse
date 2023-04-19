@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build ",
     "start": "next start",
-    "lint": "next lint",
+    "lint": "eslint --ext \".js,.vue\" --ignore-path .gitignore .",
+    "lint-fix": "npm run lint -- --fix"
     "export": "npm run build && next export -o _static"
   },
   "dependencies": {
