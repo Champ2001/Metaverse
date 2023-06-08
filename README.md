@@ -1,5 +1,10 @@
 LIVE LINK - https://metaverses-three.vercel.app/
 
+![image](https://github.com/Champ2001/Metaverse/assets/95713320/9944f039-b101-47ba-98cb-8c2e6b78ab47)
+![image](https://github.com/Champ2001/Metaverse/assets/95713320/e028bbfb-544c-4729-8821-61551df6d30c)
+![image](https://github.com/Champ2001/Metaverse/assets/95713320/1223b2b6-e833-4655-b094-78f0cbf7d2c2)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
